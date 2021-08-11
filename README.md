@@ -1,19 +1,22 @@
-## Merhaba ziyaretçi! 👋
-Benim adım Aypar, Türkiye'de yaşıyorum. Şu sıralar ilgilendiğim discord bot projem **[Lubbock](https://discordbotlist.com/bots/shirakiin)** elimden gelenin en iyisini yapmakla uğraşıyorum.
+## Merhaba ! 👋
+Benim adım Aypar, Türkiye'de yaşıyorum. Şu sıralar ilgilendiğim discord bot projem **[Lubbock](https://discordbotlist.com/bots/shirakiin)** boş zamanlarımda bota yeni özellikler getirmeye çalışıyorum. Şu an pasifte olan **[Discord Bot List](https://discordbot.org)** sitesini boş zamanlarımda geliştirmekle uğraşıyorum. Ayrıca en çok bilgim olan ve projelerimde kullandığım dil ise JavaScript ve Python bunun yanı sıra C++ öğrenmeye çalışıyorum.
 
-En çok bilgim olan ve projelerimde kulllandığım diller ise javascript ve python ayrıca C++ öğrenmeye çalışıyorum.
-
-### Projelerim
-|                    Proje İsimlerim                                                 |    Durum |
-| ---------------------------------------------------------------------------------- | -------- |
-| **[Lubbock](https://discordbotlist.com/bots/shirakiin)**                           |   Aktif  |
-| **[Gif House](https://discord.gg/PR436DVrSB)**                                     |   Aktif  |
-| **[DBL](https://discordbot.org)**                                                  |   Pasif  |
+<table>
+  <tbody>
+    <tr>
+      <th>
+        </a>
+      </th>
+    </tr>
+    <tr>
+      <th>
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ayparia&count_private=true&show_icons=true&theme=synthwave&title_color=2CE2FA" alt="Ayparia's GitHub Statistics" />
+        </a>
+      </th>
+    </tr>
+    <tr>
+      <th>
 
 ### Status
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/827093327853387776?bg=0d1117)](https://discord.com/users/827093327853387776)
-
-<a href="https://github.com/ayparia">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayparia&count_private=true&hide_border=true&show_icons=true&include_all_commits=true&bg_color=0d1117&title_color=df761c&text_color=FFFFFF&icon_color=df761c">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayparia&layout=compact&theme=nord&hide_border=true&bg_color=0d1117&border_radius=6&title_color=df761c">
-</a>
