@@ -1,4 +1,4 @@
-## Merhaba ziyaretçi! 👋
+## Merhaba! 👋
 Benim adım Aypar, Türkiye'de yaşıyorum. Şu sıralar ilgilendiğim discord bot projem **[Lubbock](https://discordbotlist.com/bots/shirakiin)** elimden gelenin en iyisini yapmakla uğraşıyorum. Ayrıca en çok bilgim olan ve projelerimde kulllandığım diller ise JavaScript ve Python ayrıca C++ öğrenmeye çalışıyorum.
 
 ### Projelerim
