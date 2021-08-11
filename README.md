@@ -6,7 +6,7 @@ Benim adım Aypar, Türkiye'de yaşıyorum. Şu sıralar ilgilendiğim discord b
 | ---------------------------------------------------------------------------------- | -------- |
 | **[Lubbock](https://discordbotlist.com/bots/shirakiin)**                           |   Aktif  |
 | **[DBL](https://discordbot.org)**                                                  |   Pasif  |
-| **[Gif Share](https://discord.gg/PR436DVrSB)**                                     |   Aktif  |
+| **[Pfp Share](https://discord.gg/PR436DVrSB)**                                     |   Aktif  |
 
 ### Status
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/827093327853387776?bg=0d1117)](https://discord.com/users/827093327853387776)
