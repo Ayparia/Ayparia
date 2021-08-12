@@ -1,5 +1,5 @@
 ## Merhaba! 👋
-Benim adım Aypar, Türkiye'de yaşıyorum. Şu sıralar ilgilendiğim discord bot projem **[Lubbock](https://discordbotlist.com/bots/shirakiin)** boş zamanlarımda bota yeni özellikler getirmeye çalışıyorum. Şu an pasifte olan **[Discord Bot List](https://discordbot.org)** sitesini boş zamanlarımda geliştirmekle uğraşıyorum. Ayrıca en çok bilgim olan ve projelerimde kullandığım dil ise JavaScript ve Python bunun yanı sıra C++ öğrenmeye çalışıyorum.
+Benim adım Aypar, Türkiye'de yaşıyorum. Şu sıralar ilgilendiğim discord bot projem **[Lubbock](https://discordbotlist.com/bots/shirakiin)** bota yeni özellikler getirmeye çalışıyorum. Şu an pasifte olan **[Discord Bot List](https://discordbot.org)** sitesini boş zamanlarımda geliştirmekle uğraşıyorum. Ayrıca en çok bilgim olan ve projelerimde kullandığım dil ise JavaScript ve Python bunun yanı sıra C++ öğrenmeye çalışıyorum.
 
 <table>
   <tbody>
